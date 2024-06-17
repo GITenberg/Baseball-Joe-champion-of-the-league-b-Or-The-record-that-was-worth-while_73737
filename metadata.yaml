@@ -7,6 +7,9 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '32061'
     url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: archival
+  image_path: 73737-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Chadwick, Lester
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32638
     wikipedia: http://www.gutenberg.org/ebooks/author/808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73737#Baseball-Joe-champion-of-the-league-b-Or-The-record-that-was-worth-while
 gutenberg_issued: '2024-05-31'
 gutenberg_type: Text
 identifiers:
